@@ -14,7 +14,7 @@ if ($resp == true){
     print "<script>alert('Cadastro efetuado com sucesso!!')</script>";
     print "<script>location.href='cadastro.html'</script>";
 } else {
-    print "<script>alert('Erro ao cadastrar!')</script>";
+    print "<script>alert('Não foi cadaastrado! erro!!!')</script>";
     print "<script>location.href='cadastro.html'</script>";
 }
 
